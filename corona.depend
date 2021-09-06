@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630160575 source:d:\sharath\corona\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
